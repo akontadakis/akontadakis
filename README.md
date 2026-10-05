@@ -5,7 +5,7 @@
   <img alt="Antonis Kontadakis — Built environment, in code. Building physics × software × AI." src="assets/notebook-light.svg" width="100%">
 </picture>
 
-I build tools for daylight, lighting, and building energy simulation, and explore how AI can make these workflows easier to use.
+I build tools for daylight, lighting, building energy, and flow simulation, and explore how AI can make these workflows easier to use.
 
 Building performance · Simulation interfaces · AI agents & MCP
 
@@ -20,4 +20,4 @@ Building performance · Simulation interfaces · AI agents & MCP
 
 ---
 
-<sub>Python · JavaScript · Radiance · EnergyPlus</sub> · [Let’s connect ↗](https://www.linkedin.com/in/antonis-kontadakis-2962b79b/)
+<sub>Python · JavaScript · Radiance · EnergyPlus · OpenFOAM</sub> · [Let’s connect ↗](https://www.linkedin.com/in/antonis-kontadakis-2962b79b/)

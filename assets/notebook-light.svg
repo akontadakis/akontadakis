@@ -1,8 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="656" height="310" viewBox="0 0 656 310" role="img" aria-labelledby="title desc">
 <title id="title">Antonis Kontadakis — Built environment, in code.</title>
-<desc id="desc">Building physics, software and AI. Understand geometry and climate. Model light and energy. Connect code and AI tools.</desc>
-<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#dce1e5" stroke-width="1"/></pattern></defs>
-<rect width="100%" height="100%" fill="#fafafa"/><rect width="100%" height="100%" fill="url(#grid)" opacity=".18"/>
+<desc id="desc">Building physics, software and AI. Understand geometry and climate. Model light, energy and flow. Connect code and AI tools.</desc>
 <g font-family="SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace" fill="#22282c">
 <text x="28" y="39" font-size="11" fill="#5a6570"># Antonis Kontadakis</text>
 <text x="28" y="125" font-size="35" fill="#22282c" letter-spacing="-2.1">Built</text>
@@ -13,7 +11,7 @@
 <text x="370" y="115" font-size="12" fill="#22282c">geometry + climate</text>
 <path d="M370 129H628" stroke="#dce1e5" stroke-width="1"/>
 <text x="370" y="155" font-size="10" fill="#5a6570">02 / model</text>
-<text x="370" y="179" font-size="12" fill="#22282c">light + energy</text>
+<text x="370" y="179" font-size="12" fill="#22282c">light + energy + flow</text>
 <path d="M370 193H628" stroke="#dce1e5" stroke-width="1"/>
 <text x="370" y="219" font-size="10" fill="#5a6570">03 / connect</text>
 <text x="370" y="243" font-size="12" fill="#a76820">code + AI tools</text>
