@@ -16,6 +16,7 @@ Building performance · Simulation interfaces · AI agents & MCP
 | [Ray Modeler ↗](https://github.com/akontadakis/Ray-Modeler) | Daylight and electric lighting workflows with Radiance. |
 | [hcl-mcp ↗](https://github.com/akontadakis/hcl-mcp) | Human-centric lighting and spectral simulation through MCP. |
 | [leed-mcp ↗](https://github.com/akontadakis/leed-mcp) | LEED v4.1 daylight and quality views credits from a Radiance model, through MCP. |
+| [rad-mcp ↗](https://github.com/akontadakis/rad-mcp) | Radiance daylight, glare and electric lighting simulation through MCP. |
 
 ---
 
