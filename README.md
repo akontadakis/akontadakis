@@ -17,6 +17,7 @@ Building performance · Simulation interfaces · AI agents & MCP
 | [hcl-mcp ↗](https://github.com/akontadakis/hcl-mcp) | Human-centric lighting and spectral simulation through MCP. |
 | [leed-mcp ↗](https://github.com/akontadakis/leed-mcp) | LEED v4.1 daylight and quality views credits from a Radiance model, through MCP. |
 | [rad-mcp ↗](https://github.com/akontadakis/rad-mcp) | Radiance daylight, glare and electric lighting simulation through MCP. |
+| [paper-skills ↗](https://github.com/akontadakis/paper-skills) | Claude Code skills for research papers: study design, writing, and responses to reviewers. |
 
 ---
 
